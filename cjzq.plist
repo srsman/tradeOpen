@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.youguu.com/download/openTrade/hxzq_ipa.ipa</string>
+					<string>http://test.youguu.com/download/secuOpen/cjzq.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hxzq.SDOpenAcc</string>
+				<string>com.thinkive.anychatOpenChangJiangInHouse</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>华西证券</string>
+				<string>长江证券</string>
 				<key>title</key>
-				<string>华西证券</string>
+				<string>长江证券</string>
 			</dict>
 		</dict>
 	</array>
